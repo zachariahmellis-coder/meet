@@ -131,8 +131,8 @@ This project is deployed using Vercel. Each push to the main branch triggers an 
 
 ## Links
 
-GitHub Repository: (add link)
-Live App (Vercel): (add link)
+GitHub Repository: https://github.com/zachariahmellis-coder/meet  
+Live App (Vercel): https://YOUR-VERCEL-URL.vercel.app
 
 ## AWS
 
